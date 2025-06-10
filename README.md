@@ -4,6 +4,7 @@ AUTOMATED DEPLOYMENT OF AN EC2 INSTANCE THROUGH TERRAFORM
 
  CONFIGURE TERRAFORM WITH AWS :
     aws configure 
+    
     -->  Access Key ID : **************
     
     -->  Secret access Key : *******************
