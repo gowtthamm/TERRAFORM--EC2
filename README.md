@@ -28,7 +28,7 @@ AUTOMATED DEPLOYMENT OF AN EC2 INSTANCE THROUGH TERRAFORM
     
       Output format : json
 
-<img src="https://github.com/gowtthamm/Terraform-EC2/blob/d0c07a81368113b043e2fc6c126459adaac00903/AWS%20Configure.png" width="700" height="300">
+<img src="https://github.com/gowtthamm/Terraform-EC2/blob/d0c07a81368113b043e2fc6c126459adaac00903/AWS%20Configure.png" width="600" height="300">
 
 		
  TERRAFORM COMMANDS :
@@ -52,13 +52,13 @@ AUTOMATED DEPLOYMENT OF AN EC2 INSTANCE THROUGH TERRAFORM
 
 
 
-<img src="https://github.com/gowtthamm/Terraform-EC2/blob/bf20f7b631f3d42d79c3d70e0b295a9ad68874f2/Apply.png" width="700" height="300">
+<img src="https://github.com/gowtthamm/Terraform-EC2/blob/bf20f7b631f3d42d79c3d70e0b295a9ad68874f2/Apply.png" width="600" height="300">
 
-<img src="https://github.com/gowtthamm/Terraform-EC2/blob/bf20f7b631f3d42d79c3d70e0b295a9ad68874f2/Deployed.png" width="700" height="300">
+<img src="https://github.com/gowtthamm/Terraform-EC2/blob/bf20f7b631f3d42d79c3d70e0b295a9ad68874f2/Deployed.png" width="600" height="300">
 
 DESTROYED :
 
-<img src="https://github.com/gowtthamm/Terraform-EC2/blob/bf20f7b631f3d42d79c3d70e0b295a9ad68874f2/Destory.png" width="700" height="300">
+<img src="https://github.com/gowtthamm/Terraform-EC2/blob/bf20f7b631f3d42d79c3d70e0b295a9ad68874f2/Destory.png" width="600" height="300">
 
-<img src="https://github.com/gowtthamm/Terraform-EC2/blob/bf20f7b631f3d42d79c3d70e0b295a9ad68874f2/Destroyed.png" width="700" height="300">
+<img src="https://github.com/gowtthamm/Terraform-EC2/blob/bf20f7b631f3d42d79c3d70e0b295a9ad68874f2/Destroyed.png" width="600" height="300">
 
