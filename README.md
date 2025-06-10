@@ -4,9 +4,12 @@ AUTOMATED DEPLOYMENT OF AN EC2 INSTANCE THROUGH TERRAFORM
 
  CONFIGURE TERRAFORM WITH AWS :
     aws configure 
-    -->  Access Key ID : ************** 
+    -->  Access Key ID : **************
+    
     -->  Secret access Key : *******************
+    
     -->  Region : ap-south-01 (Mumbai)
+    
     -->   Output format : json
 
 <img src="https://github.com/gowtthamm/Terraform-EC2/blob/d0c07a81368113b043e2fc6c126459adaac00903/AWS%20Configure.png" width="700" height="300">
