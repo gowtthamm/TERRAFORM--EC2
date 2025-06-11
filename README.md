@@ -42,13 +42,13 @@ AUTOMATED DEPLOYMENT OF AN EC2 INSTANCE THROUGH TERRAFORM
      terraform destroy
        
 
---> INIT : Initializes a Terraform Working Directory by Downloading required provider plugins and setting up the backend .
+--> INIT : Initializes a Terraform Working Directory by Downloading required provider plugins and setting up the backend
 
---> PLAN : Terraform will make to your infrastructure without applying them , Helping ypu review before deployment .
+--> PLAN : Terraform will make to your infrastructure without applying them , Helping ypu review before deployment 
 
---> APPLY: Execute the action proposed in the plan to create , update or delete infrastructure resource .
+--> APPLY: Execute the action proposed in the plan to create , update or delete infrastructure resource
 
---> DESTROY : Delete all resources managed by the current terraform configuration .
+--> DESTROY : Delete all resources managed by the current terraform configuration 
 
 
 
