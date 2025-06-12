@@ -49,7 +49,7 @@ AUTOMATED DEPLOYMENT OF AN EC2 INSTANCE THROUGH TERRAFORM
 
 --> APPLY: Execute the action proposed in the plan to create , update or delete infrastructure resource
 
---> DESTROY : Delete all resources managed by the current terraform configuration 
+--> DESTROY : Delete all resources managed by the current terraform configuration .
 
 
 
