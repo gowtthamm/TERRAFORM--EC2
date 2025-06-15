@@ -39,14 +39,29 @@ AUTOMATED DEPLOYMENT OF AN EC2 INSTANCE THROUGH TERRAFORM
 
 		
  TERRAFORM COMMANDS :
- 
+ <pre>
+<code>
      terraform init 
+</code>
+</pre>
+<pre>
+<code>
 
      terraform plan 
+</code>
+</pre>
+<pre>
+<code>
         
      terraform apply 
+</code>
+</pre>
+<pre>
+<code>
 
      terraform destroy
+</code>
+</pre>
        
 
 --> INIT : Initializes a Terraform Working Directory by Downloading required provider plugins and setting up the backend
