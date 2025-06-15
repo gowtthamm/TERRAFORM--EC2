@@ -42,22 +42,10 @@ AUTOMATED DEPLOYMENT OF AN EC2 INSTANCE THROUGH TERRAFORM
  <pre>
 <code>
      terraform init 
-</code>
-</pre>
-<pre>
-<code>
 
      terraform plan 
-</code>
-</pre>
-<pre>
-<code>
         
      terraform apply 
-</code>
-</pre>
-<pre>
-<code>
 
      terraform destroy
 </code>
