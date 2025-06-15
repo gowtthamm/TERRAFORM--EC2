@@ -1,4 +1,4 @@
-AUTOMATED DEPLOYMENT OF AN EC2 INSTANCE THROUGH TERRAFORM 
+moAUTOMATED DEPLOYMENT OF AN EC2 INSTANCE THROUGH TERRAFORM 
 
 <img src="https://github.com/gowtthamm/Terraform-EC2/blob/228fcf4d198ca6ae9f08b2c5c780b3d5029b60e6/Flowchart.png" >
 
@@ -41,13 +41,13 @@ AUTOMATED DEPLOYMENT OF AN EC2 INSTANCE THROUGH TERRAFORM
  TERRAFORM COMMANDS :
  <pre>
 <code>
-     terraform init 
+terraform init 
 
-     terraform plan 
+terraform plan 
         
-     terraform apply 
+terraform apply 
 
-     terraform destroy
+terraform destroy
 </code>
 </pre>
        
