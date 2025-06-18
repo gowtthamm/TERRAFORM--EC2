@@ -62,9 +62,9 @@ terraform destroy
 
 
 
-<img src="https://github.com/gowtthamm/Terraform-EC2/blob/bf20f7b631f3d42d79c3d70e0b295a9ad68874f2/Apply.png" width="600" height="300">
+<img src="https://github.com/gowtthamm/Terraform-EC2/blob/bf20f7b631f3d42d79c3d70e0b295a9ad68874f2/Apply.png">
 
-<img src="https://github.com/gowtthamm/Terraform-EC2/blob/bf20f7b631f3d42d79c3d70e0b295a9ad68874f2/Deployed.png" width="600" height="300">
+<img src="https://github.com/gowtthamm/Terraform-EC2/blob/bf20f7b631f3d42d79c3d70e0b295a9ad68874f2/Deployed.png">
 
 DESTROYED :
 
